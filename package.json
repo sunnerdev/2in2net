@@ -1,0 +1,26 @@
+{
+  "name": "2in2net",
+  "main": "2in2net",
+  "theme": "syntax",
+  "version": "0.0.2",
+  "description": "2in2.net : เว็บสล็อตออนไลน์ รวบรวมสล็อตดังๆ ทั่วทุกประเภท งบน้อยก็เล่นได้สบายใจ ,918KISS,PUSSY888,SLOTXO,JOKER,NX-CASINO,SLOTX,GOTT7,KickOffBet",
+  "keywords": [
+    "2in2.net : เว็บสล็อตออนไลน์ รวบรวมสล็อตดังๆ ทั่วทุกประเภท งบน้อยก็เล่นได้สบายใจ ,918KISS,PUSSY888,SLOTXO,JOKER,NX-CASINO,SLOTX,GOTT7,KickOffBet",
+    "สล็อตออนไลน์",
+    "คาสิโนออนไลน์",
+    "เกมส์ออนไลน์",
+    "918KISS",
+    "PUSSY888",
+    "SLOTXO",
+    "JOKER",
+    "NX-CASINO",
+    "SLOTX",
+    "GOTT7",
+    "KickOffBet"
+  ],
+  "repository": "https://github.com/sunnerdev/2in2net",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
